@@ -1,0 +1,15 @@
+C:\Users\ppaez\source\repos\FullstackClassRepository\bin\Debug\net6.0\02-ObjectsCreation.exe
+C:\Users\ppaez\source\repos\FullstackClassRepository\bin\Debug\net6.0\02-ObjectsCreation.deps.json
+C:\Users\ppaez\source\repos\FullstackClassRepository\bin\Debug\net6.0\02-ObjectsCreation.runtimeconfig.json
+C:\Users\ppaez\source\repos\FullstackClassRepository\bin\Debug\net6.0\02-ObjectsCreation.dll
+C:\Users\ppaez\source\repos\FullstackClassRepository\bin\Debug\net6.0\02-ObjectsCreation.pdb
+C:\Users\ppaez\source\repos\FullstackClassRepository\obj\Debug\net6.0\02-ObjectsCreation.csproj.AssemblyReference.cache
+C:\Users\ppaez\source\repos\FullstackClassRepository\obj\Debug\net6.0\02-ObjectsCreation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ppaez\source\repos\FullstackClassRepository\obj\Debug\net6.0\02-ObjectsCreation.AssemblyInfoInputs.cache
+C:\Users\ppaez\source\repos\FullstackClassRepository\obj\Debug\net6.0\02-ObjectsCreation.AssemblyInfo.cs
+C:\Users\ppaez\source\repos\FullstackClassRepository\obj\Debug\net6.0\02-ObjectsCreation.csproj.CoreCompileInputs.cache
+C:\Users\ppaez\source\repos\FullstackClassRepository\obj\Debug\net6.0\02-ObjectsCreation.dll
+C:\Users\ppaez\source\repos\FullstackClassRepository\obj\Debug\net6.0\refint\02-ObjectsCreation.dll
+C:\Users\ppaez\source\repos\FullstackClassRepository\obj\Debug\net6.0\02-ObjectsCreation.pdb
+C:\Users\ppaez\source\repos\FullstackClassRepository\obj\Debug\net6.0\02-ObjectsCreation.genruntimeconfig.cache
+C:\Users\ppaez\source\repos\FullstackClassRepository\obj\Debug\net6.0\ref\02-ObjectsCreation.dll
