@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ppaez\\source\\repos\\FullstackClassRepository\\02-ObjectsCreation.csproj",
+      "projectUniqueName": "C:\\Users\\ppaez\\source\\repos\\FullstackClassRepository\\02-ObjectsCreation\\02-ObjectsCreation.csproj",
       "projectName": "02-ObjectsCreation",
-      "projectPath": "C:\\Users\\ppaez\\source\\repos\\FullstackClassRepository\\02-ObjectsCreation.csproj",
+      "projectPath": "C:\\Users\\ppaez\\source\\repos\\FullstackClassRepository\\02-ObjectsCreation\\02-ObjectsCreation.csproj",
       "packagesPath": "C:\\Users\\ppaez\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ppaez\\source\\repos\\FullstackClassRepository\\obj\\",
+      "outputPath": "C:\\Users\\ppaez\\source\\repos\\FullstackClassRepository\\02-ObjectsCreation\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ppaez\\AppData\\Roaming\\NuGet\\NuGet.Config",

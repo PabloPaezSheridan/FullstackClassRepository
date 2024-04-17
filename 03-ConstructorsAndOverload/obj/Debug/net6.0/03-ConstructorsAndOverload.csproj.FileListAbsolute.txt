@@ -1,0 +1,15 @@
+C:\Users\ppaez\source\repos\FullstackClassRepository\03-ConstructorsAndOverload\bin\Debug\net6.0\03-ConstructorsAndOverload.exe
+C:\Users\ppaez\source\repos\FullstackClassRepository\03-ConstructorsAndOverload\bin\Debug\net6.0\03-ConstructorsAndOverload.deps.json
+C:\Users\ppaez\source\repos\FullstackClassRepository\03-ConstructorsAndOverload\bin\Debug\net6.0\03-ConstructorsAndOverload.runtimeconfig.json
+C:\Users\ppaez\source\repos\FullstackClassRepository\03-ConstructorsAndOverload\bin\Debug\net6.0\03-ConstructorsAndOverload.dll
+C:\Users\ppaez\source\repos\FullstackClassRepository\03-ConstructorsAndOverload\bin\Debug\net6.0\03-ConstructorsAndOverload.pdb
+C:\Users\ppaez\source\repos\FullstackClassRepository\03-ConstructorsAndOverload\obj\Debug\net6.0\03-ConstructorsAndOverload.csproj.AssemblyReference.cache
+C:\Users\ppaez\source\repos\FullstackClassRepository\03-ConstructorsAndOverload\obj\Debug\net6.0\03-ConstructorsAndOverload.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ppaez\source\repos\FullstackClassRepository\03-ConstructorsAndOverload\obj\Debug\net6.0\03-ConstructorsAndOverload.AssemblyInfoInputs.cache
+C:\Users\ppaez\source\repos\FullstackClassRepository\03-ConstructorsAndOverload\obj\Debug\net6.0\03-ConstructorsAndOverload.AssemblyInfo.cs
+C:\Users\ppaez\source\repos\FullstackClassRepository\03-ConstructorsAndOverload\obj\Debug\net6.0\03-ConstructorsAndOverload.csproj.CoreCompileInputs.cache
+C:\Users\ppaez\source\repos\FullstackClassRepository\03-ConstructorsAndOverload\obj\Debug\net6.0\03-ConstructorsAndOverload.dll
+C:\Users\ppaez\source\repos\FullstackClassRepository\03-ConstructorsAndOverload\obj\Debug\net6.0\refint\03-ConstructorsAndOverload.dll
+C:\Users\ppaez\source\repos\FullstackClassRepository\03-ConstructorsAndOverload\obj\Debug\net6.0\03-ConstructorsAndOverload.pdb
+C:\Users\ppaez\source\repos\FullstackClassRepository\03-ConstructorsAndOverload\obj\Debug\net6.0\03-ConstructorsAndOverload.genruntimeconfig.cache
+C:\Users\ppaez\source\repos\FullstackClassRepository\03-ConstructorsAndOverload\obj\Debug\net6.0\ref\03-ConstructorsAndOverload.dll

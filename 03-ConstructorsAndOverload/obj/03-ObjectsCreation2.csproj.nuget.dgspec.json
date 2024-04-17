@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ppaez\\source\\repos\\FullstackClassRepository\\02-ObjectsCreation.csproj": {}
+    "C:\\Users\\ppaez\\source\\repos\\FullstackClassRepository\\03-ConstructorsAndOverload\\03-ObjectsCreation2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ppaez\\source\\repos\\FullstackClassRepository\\02-ObjectsCreation.csproj": {
+    "C:\\Users\\ppaez\\source\\repos\\FullstackClassRepository\\03-ConstructorsAndOverload\\03-ObjectsCreation2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ppaez\\source\\repos\\FullstackClassRepository\\02-ObjectsCreation.csproj",
-        "projectName": "02-ObjectsCreation",
-        "projectPath": "C:\\Users\\ppaez\\source\\repos\\FullstackClassRepository\\02-ObjectsCreation.csproj",
+        "projectUniqueName": "C:\\Users\\ppaez\\source\\repos\\FullstackClassRepository\\03-ConstructorsAndOverload\\03-ObjectsCreation2.csproj",
+        "projectName": "03-ObjectsCreation2",
+        "projectPath": "C:\\Users\\ppaez\\source\\repos\\FullstackClassRepository\\03-ConstructorsAndOverload\\03-ObjectsCreation2.csproj",
         "packagesPath": "C:\\Users\\ppaez\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ppaez\\source\\repos\\FullstackClassRepository\\obj\\",
+        "outputPath": "C:\\Users\\ppaez\\source\\repos\\FullstackClassRepository\\03-ConstructorsAndOverload\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ppaez\\AppData\\Roaming\\NuGet\\NuGet.Config",
