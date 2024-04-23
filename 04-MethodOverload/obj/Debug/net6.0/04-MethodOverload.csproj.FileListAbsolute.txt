@@ -1,0 +1,15 @@
+C:\Users\ppaez\source\repos\FullstackClassRepository\04-MethodOverload\bin\Debug\net6.0\04-MethodOverload.exe
+C:\Users\ppaez\source\repos\FullstackClassRepository\04-MethodOverload\bin\Debug\net6.0\04-MethodOverload.deps.json
+C:\Users\ppaez\source\repos\FullstackClassRepository\04-MethodOverload\bin\Debug\net6.0\04-MethodOverload.runtimeconfig.json
+C:\Users\ppaez\source\repos\FullstackClassRepository\04-MethodOverload\bin\Debug\net6.0\04-MethodOverload.dll
+C:\Users\ppaez\source\repos\FullstackClassRepository\04-MethodOverload\bin\Debug\net6.0\04-MethodOverload.pdb
+C:\Users\ppaez\source\repos\FullstackClassRepository\04-MethodOverload\obj\Debug\net6.0\04-MethodOverload.csproj.AssemblyReference.cache
+C:\Users\ppaez\source\repos\FullstackClassRepository\04-MethodOverload\obj\Debug\net6.0\04-MethodOverload.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ppaez\source\repos\FullstackClassRepository\04-MethodOverload\obj\Debug\net6.0\04-MethodOverload.AssemblyInfoInputs.cache
+C:\Users\ppaez\source\repos\FullstackClassRepository\04-MethodOverload\obj\Debug\net6.0\04-MethodOverload.AssemblyInfo.cs
+C:\Users\ppaez\source\repos\FullstackClassRepository\04-MethodOverload\obj\Debug\net6.0\04-MethodOverload.csproj.CoreCompileInputs.cache
+C:\Users\ppaez\source\repos\FullstackClassRepository\04-MethodOverload\obj\Debug\net6.0\04-MethodOverload.dll
+C:\Users\ppaez\source\repos\FullstackClassRepository\04-MethodOverload\obj\Debug\net6.0\refint\04-MethodOverload.dll
+C:\Users\ppaez\source\repos\FullstackClassRepository\04-MethodOverload\obj\Debug\net6.0\04-MethodOverload.pdb
+C:\Users\ppaez\source\repos\FullstackClassRepository\04-MethodOverload\obj\Debug\net6.0\04-MethodOverload.genruntimeconfig.cache
+C:\Users\ppaez\source\repos\FullstackClassRepository\04-MethodOverload\obj\Debug\net6.0\ref\04-MethodOverload.dll
