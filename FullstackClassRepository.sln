@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02-ObjectsCreation", "02-Ob
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04-MethodOverload", "04-MethodOverload\04-MethodOverload.csproj", "{97BE0C93-47C7-40C5-88D8-0FF7C66B3E46}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05-WepApiDemo", "05-WepApiDemo\05-WepApiDemo.csproj", "{EC5F1EC3-F8E7-4C73-B3FF-A982B47323BC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{97BE0C93-47C7-40C5-88D8-0FF7C66B3E46}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{97BE0C93-47C7-40C5-88D8-0FF7C66B3E46}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{97BE0C93-47C7-40C5-88D8-0FF7C66B3E46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC5F1EC3-F8E7-4C73-B3FF-A982B47323BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC5F1EC3-F8E7-4C73-B3FF-A982B47323BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC5F1EC3-F8E7-4C73-B3FF-A982B47323BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC5F1EC3-F8E7-4C73-B3FF-A982B47323BC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
