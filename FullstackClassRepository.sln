@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04-MethodOverload", "04-Met
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05-WepApiDemo", "05-WepApiDemo\05-WepApiDemo.csproj", "{EC5F1EC3-F8E7-4C73-B3FF-A982B47323BC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06-ReferenceProjectInClass", "06-ReferenceProjectInClass\06-ReferenceProjectInClass.csproj", "{2150E25C-FC2F-4DDA-AEE6-A3A3DAB0393C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{EC5F1EC3-F8E7-4C73-B3FF-A982B47323BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EC5F1EC3-F8E7-4C73-B3FF-A982B47323BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EC5F1EC3-F8E7-4C73-B3FF-A982B47323BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2150E25C-FC2F-4DDA-AEE6-A3A3DAB0393C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2150E25C-FC2F-4DDA-AEE6-A3A3DAB0393C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2150E25C-FC2F-4DDA-AEE6-A3A3DAB0393C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2150E25C-FC2F-4DDA-AEE6-A3A3DAB0393C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
