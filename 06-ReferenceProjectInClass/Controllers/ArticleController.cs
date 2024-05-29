@@ -1,43 +1,47 @@
+using Data.Repositories;
 using Microsoft.AspNetCore.Mvc;
 
 [ApiController]
 [Route("api/Article")]
 public class ArticleController : ControllerBase
 {
+    private  readonly ArticleRepository _repo;
+    public ArticleController(ArticleRepository pepe)
+    {
+        _repo = pepe;
+    }
+
     [HttpGet("{idArticle}")]
     public ActionResult Get(int idArticle)
     {
-        var articleToReturn = DemoArticles.Articles.Where(a => a.Id == idArticle);
+        var articleToReturn = _repo.Get(idArticle);
         return Ok(articleToReturn);
     }
 
     [HttpGet]
     public ActionResult Get()
     {
-        return Ok(DemoArticles.Articles.ToList());
+        return Ok(_repo.GetAll());
     }
 
     [HttpPost]
     public ActionResult AddArticle([FromBody] ArticleToAdd body)
     {
-        Article article = new()
+        var newArticle = new Article()
         {
             Content = body.Content,
             Date = DateTime.UtcNow,
             ImagePath = body.ImagePath,
             Summary = body.Summary,
             Title = body.Title
-        };
-        DemoArticles.Articles.Add(article);
-        return Ok(article.Id);
+        }; 
+        return Ok(_repo.AddArticle(newArticle));
     }
 
     [HttpDelete("{id}")]
     public ActionResult DeleteArticle(int id)
     {
-        var articleToReturn = DemoArticles.Articles.First(a => a.Id == id);
-        DemoArticles.Articles.Remove(articleToReturn);
-        return Ok();
+        return Ok(_repo.Delete(id));;
     }
 
     [HttpPut("{id}")]
@@ -47,7 +51,7 @@ public class ArticleController : ControllerBase
         articleToReturn.Content = body.Content;
         articleToReturn.Summary = body.Summary;
         articleToReturn.ImagePath = body.ImagePath;
-        DemoArticles.Articles.Add(articleToReturn);
+        _repo.AddArticle(articleToReturn);
         return Ok();
     }
 }

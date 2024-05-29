@@ -406,3 +406,8 @@ FodyWeavers.xsd
 *.sln.iml
 
 # End of https://www.toptal.com/developers/gitignore/api/csharp
+06-ReferenceProjectInClass/ArticleApi.db-shm
+06-ReferenceProjectInClass/ArticleApi.db-wal
+06-ReferenceProjectInClass/bin/Debug/net6.0/06-ReferenceProjectInClass.deps.json
+06-ReferenceProjectInClass/bin/Debug/net6.0/06-ReferenceProjectInClass.deps.json
+06-ReferenceProjectInClass/bin/Debug/net6.0/06-ReferenceProjectInClass.deps.json
