@@ -28,12 +28,12 @@ namespace Data.Repositories{
 
         public List<Article> GetAll()
         {
-            return _context.Articles.ToList();
+            return _context.Articles.Where(a => a.State == "Active").ToList();
         }
 
         public Article? Get(int Id)
         {
-            return _context.Articles.FirstOrDefault(a => a.Id == Id);
+            return _context.Articles.Where(a => a.State == "Active").FirstOrDefault(a => a.Id == Id);
         }
 
         public bool Delete(int id)
@@ -41,11 +41,13 @@ namespace Data.Repositories{
             var articleToDelete = _context.Articles.FirstOrDefault(a => a.Id == id);
             if(articleToDelete is not null)
             {
-                _context.Articles.Remove(articleToDelete);
+                articleToDelete.State = "Deleted";
+                _context.Articles.Update(articleToDelete);
                 _context.SaveChanges();
                 return true;
             }
             return false;
         }
+
     }
 }

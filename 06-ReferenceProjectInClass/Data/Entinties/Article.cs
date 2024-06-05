@@ -13,4 +13,5 @@ public class Article
     public string Content {get; set;}
     public DateTime Date {get;set;}
     public string? ImagePath {get;set;}
+    public string State {get; set;} = "Active";
 }

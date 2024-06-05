@@ -41,7 +41,7 @@ public class ArticleController : ControllerBase
     [HttpDelete("{id}")]
     public ActionResult DeleteArticle(int id)
     {
-        return Ok(_repo.Delete(id));;
+        return Ok(_repo.Delete(id));
     }
 
     [HttpPut("{id}")]
@@ -54,4 +54,7 @@ public class ArticleController : ControllerBase
         _repo.AddArticle(articleToReturn);
         return Ok();
     }
+
+    //Devolver los articulos que tengan coincidencia parcial por titulo o resumen
+    [HttpGet]
 }
