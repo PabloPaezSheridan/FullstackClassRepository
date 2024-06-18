@@ -22,7 +22,19 @@ public class ArticleController : ControllerBase
     [HttpGet]
     public ActionResult Get()
     {
-        return Ok(_repo.GetAll());
+        var articles = _repo.GetAll();
+        List<ArticleToReturn> articleToReturn = new();
+        foreach( var a in articles){
+            articleToReturn.Add(new ArticleToReturn(){
+                Content = a.Content,
+                Date = a.Date,
+                ImagePath = a.ImagePath,
+                Skill = a.Skill,
+                Summary = a.Summary,
+                Title = a.Title
+            });
+        };
+        return Ok(articleToReturn);
     }
 
     [HttpPost]
@@ -34,7 +46,8 @@ public class ArticleController : ControllerBase
             Date = DateTime.UtcNow,
             ImagePath = body.ImagePath,
             Summary = body.Summary,
-            Title = body.Title
+            Title = body.Title,
+            Skill = body.Skill
         }; 
         return Ok(_repo.AddArticle(newArticle));
     }
@@ -52,6 +65,7 @@ public class ArticleController : ControllerBase
         articleToReturn.Content = body.Content;
         articleToReturn.Summary = body.Summary;
         articleToReturn.ImagePath = body.ImagePath;
+        articleToReturn.Skill = body.Skill;
         _repo.AddArticle(articleToReturn);
         return Ok();
     }

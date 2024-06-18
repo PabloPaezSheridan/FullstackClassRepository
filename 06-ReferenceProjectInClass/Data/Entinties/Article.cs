@@ -14,4 +14,5 @@ public class Article
     public DateTime Date {get;set;}
     public string? ImagePath {get;set;}
     public string State {get; set;} = "Active";
+    public ExperienceSkillEnum Skill {get; set;} = ExperienceSkillEnum.Managment;
 }
